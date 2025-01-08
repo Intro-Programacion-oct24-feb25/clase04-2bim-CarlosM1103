@@ -26,8 +26,8 @@ public class Ejemplo01 {
         //String miMensaje = obtenerMultiplicacionDos(7, 50);
         //System.out.printf("%s\n", miMensaje);
         String ciudad = "Loja";
-        String ciudaM = obtenerCiudadMayuscula(ciudad);
-        System.out.println(ciudaM);
+        String ciudadM = obtenerCiudadMayuscula(ciudad);
+        System.out.println(ciudadM);
     }
     
     
