@@ -10,7 +10,13 @@ package ejemplos02;
  * @author reroes
  */
 public class Ejemplo041 {
-
+/*
+  Este codigo consiste en la impresion de los 3 arreglos; contamos con 2 funciones
+la funcion obtener multiplicacion nos vas a permitir realizar la multiplicacion 
+de 2 arreglos en cierta posicion, la funcion obtener reporte permite mostrarnos
+en pantalla los 3 arreglos que tenemos en la funcion principal, se usa ciclos 
+repetitivos y una cadena acumuladora.    
+*/
     public static void main(String[] args) {
         // 
         
